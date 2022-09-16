@@ -1,0 +1,260 @@
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:34:37 2022 +0700
+
+    Revert "README.md"
+    
+    This reverts commit daed5b0e7ffc177bc19b18c02175234dab696735.
+
+commit daed5b0e7ffc177bc19b18c02175234dab696735
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:32:32 2022 +0700
+
+    README.md
+
+commit 52ca3984bda545d82c123bedb36b02575f78cc26
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:21:25 2022 +0700
+
+    .gitignore
+
+commit 9cac1728424a13c458f5cba125b25b6253e107d5 (tag: v2)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:02:14 2022 +0700
+
+    add tag
+
+commit ca73c027b845b9ce845f6b77d63af30d63788155 (tag: v1)
+...skipping...
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to N).
+  u  ^U             *  Backward one half-window (and set half-window to N).
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+HELP -- Press RETURN for more, or q when done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to N).
+  u  ^U             *  Backward one half-window (and set half-window to N).
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+HELP -- Press RETURN for more, or q when done...skipping...
+commit 0b258cfcd670298574a4a0c2e9200674d3991f0a (HEAD -> main, origin/main)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:34:37 2022 +0700
+
+    Revert "README.md"
+    
+    This reverts commit daed5b0e7ffc177bc19b18c02175234dab696735.
+
+commit daed5b0e7ffc177bc19b18c02175234dab696735
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:32:32 2022 +0700
+
+    README.md
+
+commit 52ca3984bda545d82c123bedb36b02575f78cc26
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:21:25 2022 +0700
+
+    .gitignore
+
+commit 9cac1728424a13c458f5cba125b25b6253e107d5 (tag: v2)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:02:14 2022 +0700
+
+    add tag
+
+commit ca73c027b845b9ce845f6b77d63af30d63788155 (tag: v1)
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit 0b258cfcd670298574a4a0c2e9200674d3991f0a (HEAD -> main, origin/main)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:34:37 2022 +0700
+
+    Revert "README.md"
+    
+    This reverts commit daed5b0e7ffc177bc19b18c02175234dab696735.
+
+commit daed5b0e7ffc177bc19b18c02175234dab696735
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:32:32 2022 +0700
+
+    README.md
+
+commit 52ca3984bda545d82c123bedb36b02575f78cc26
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:21:25 2022 +0700
+
+    .gitignore
+
+commit 9cac1728424a13c458f5cba125b25b6253e107d5 (tag: v2)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:02:14 2022 +0700
+
+    add tag
+
+commit ca73c027b845b9ce845f6b77d63af30d63788155 (tag: v1)
+:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+commit 0b258cfcd670298574a4a0c2e9200674d3991f0a (HEAD -> main, origin/main)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:34:37 2022 +0700
+
+    Revert "README.md"
+    
+    This reverts commit daed5b0e7ffc177bc19b18c02175234dab696735.
+
+commit daed5b0e7ffc177bc19b18c02175234dab696735
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 19:32:32 2022 +0700
+
+    README.md
+
+commit 52ca3984bda545d82c123bedb36b02575f78cc26
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:21:25 2022 +0700
+
+    .gitignore
+
+commit 9cac1728424a13c458f5cba125b25b6253e107d5 (tag: v2)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 18:02:14 2022 +0700
+
+    add tag
+
+commit ca73c027b845b9ce845f6b77d63af30d63788155 (tag: v1)
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 17:54:28 2022 +0700
+
+    add new line
+
+commit 03a50e0313dfdd778478c64170f9c9536d44aa7b
+Author: Konoesu <konoesu@gmail.com>
+Date:   Fri Sep 16 17:44:32 2022 +0700
+
+    creating new file
